@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: Arial; */
+}
+#container {
+    margin: 0 auto;
+    width: 1050px;
+    height: 616px;
+}
+#banner{
+    width: 1050px;
+    height: 180px;
+    background: rgba(243, 197, 197, 0.966);
+    color: #fff;
+    text-align: center;
+}
+#link{
+    width: 250px;
+    height:800px;
+    background: red;
+    margin-top: -40px;
+    margin-left: 0px;
+    font-size: medium;
+    text-align: center;
+    color: #fff;
+    font-family: Georgia;
+}
+#texto{
+    width: 800px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 250px;
+    background: rgb(0, 195, 255);
+}
+#footer{
+    width:1045px;
+    height: 50px;
+    margin: 0 auto 200;
+    text-align: center;
+    color: red;
+    border: solid;
+
+}
+#img{
+    height: 200px;
+    width: 250px;
+    margin-left: 75px;
+/*     margin: 0 auto;
+    margin-top: 25px; */
+}
+#img1{
+    width: 300px;
+    height: 140px;    
+    /* margin-left: 375px; */
+}
+#img2{
+    width: 200px;
+    height:100px ;
+    /* margin-left: 150px; */
+    margin-bottom: 15px;
+}
+#img3{
+    width: 200px;
+    height:100px ;
+    /* margin-right: 150px; */
+    margin-bottom: 15px;
+}
+#img4{
+    width: 300px;
+    height: 140px;
+}
+#tx{
+    font-size: x-large;
+    font-family: Georgia;
+    text-align: center;
+    color:red;
+    
+}
+#caixa{
+    width: 800px;
+    height: 200px;
+    margin-top: 30px;
+    padding: 0;
+}
+#caixaimg{
+    width: 400px;
+    height: 220px;
+    margin-left: 0;
+    text-align: left;
+}
+#caixatxt{
+    width: 400px;
+    height: 200px;
+    margin-left: 340px;
+    margin-top: -225px;
+}
+#txt1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    margin-top: 10px;
+}
+#txt2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 55px;
+}
+#link1{
+    font-family: 'Lucida Sans';
+    font-size: medium; 
+    text-align: center;
+    color: blanchedalmond;
+}
+#link2{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link3{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link4{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link5{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link6{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link7{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link8{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link9{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#link10{
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: center;
+    color: blanchedalmond;
+}
+#imglink{
+    width: 250px;
+    height:240px;
+    margin-bottom: 20px;
+}
